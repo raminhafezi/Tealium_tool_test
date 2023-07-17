@@ -1,12 +1,12 @@
 {
-    "id": "account_data_exporter",
+    "id": "account_data_exporter_edited",
     "title": "Account Data Exporter",
     "icon_url": "https://my.tealiumiq.com/img/login/tealium_login_logo.png",
     "scripts": {
         "account_data_exporter": {
-            "title": "Account Data Exporter",
+            "title": "ADE",
             "auto_inject": true,
-            "js": "https://solutions.tealium.net/hosted/tealiumTools/account_data_exporter/template.js",
+            "js": "https://github.com/raminhafezi/Tealium_tool_test/blob/main/Account_Data_Exported_Edited/template.js",
             "template": "https://solutions.tealium.net/hosted/tealiumTools/account_data_exporter/template.html",
             "remote_template": true,
             "remote_js": true
